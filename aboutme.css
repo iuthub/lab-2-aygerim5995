@@ -1,0 +1,58 @@
+body
+{
+background-color:#dce8ef;
+}
+h1
+{
+text-align: center;
+color:#073028;
+margin-left:250;
+font-family:Broadway;
+}
+h2
+{
+text-align: center;
+color:#073028;
+margin-left:250;
+font-family:Forte;
+}
+h3
+{
+text-align: center;
+color:#073028;
+margin-left:250;
+font-family:Verdana;
+}
+p
+{
+text-align: left;
+color:#415d63;
+margin-left:200;
+font-family:Forte;
+}
+#me{
+text-align: center;
+color:#415d63;
+margin-left:200;
+font-family:Forte;
+}
+#mine{
+text-align: center;
+color:#073028;
+margin-left:250;
+font-family:Arial;
+}
+ul
+{
+text-align:left;
+color:#415d63;
+margin-left:200;
+font-family:Forte;
+}
+ol
+{
+text-align: left;
+color:#605159;
+margin-left:200;
+font-family:Forte;
+}
